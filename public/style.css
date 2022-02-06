@@ -1,0 +1,30 @@
+#chat-wrap {
+    height: 800px;
+    margin: auto;
+}
+
+#chat-window {
+    height: 400px;
+    background-color: aqua;
+    overflow-y: auto;
+}
+
+#sender {
+    width: 250px;
+    height: 50px;
+}
+
+#message {
+    width: 500px;
+    height: 50px;
+}
+
+#output {
+    height: 300px;
+    width: 300px;
+}
+
+#feedback {
+    height: 15px;
+    margin-bottom: 10px;
+}
